@@ -18,12 +18,14 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="www.linkedin.com/in/carlos-rasgo-39332b2a0" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/your-handle" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
+  <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="carlos-rasgo-39332b2a0" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/carlos-rasgo-39332b2a0?trk=profile-badge">Carlos Rasgo</a></div>
+              
 </p>
 
 ---
