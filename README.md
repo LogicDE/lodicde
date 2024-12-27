@@ -18,7 +18,7 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="www.linkedin.com/in/carlos-rasgo-39332b2a0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/your-handle" target="_blank">
